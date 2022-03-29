@@ -40,3 +40,4 @@ print("This inventory is Sorted(): " + str(inv_sorted))
 
 inventory.sort() 
 print("The .sort() method also works: " + str(inventory))
+
